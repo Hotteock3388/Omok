@@ -1,0 +1,2 @@
+D:\Study\Projects\C\Omok\Debug\Omok.exe
+D:\Study\Projects\C\Omok\Debug\Omok.pdb

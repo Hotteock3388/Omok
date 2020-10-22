@@ -1,0 +1,4 @@
+﻿  MainCode.c
+D:\Study\Projects\C\Omok\MainCode.c(181): warning C4715: 'result_black': 모든 제어 경로에서 값을 반환하지는 않습니다.
+D:\Study\Projects\C\Omok\MainCode.c(219): warning C4715: 'result_white': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  Omok.vcxproj -> D:\Study\Projects\C\Omok\Debug\Omok.exe
